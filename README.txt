@@ -1,4 +1,4 @@
-This is collection of netsnmp-based ruby scripts, that I wrote when was working as network engineer in Corbina Telecom/Beeline.
+This is collection of varios scripts I wrote.
 allusers.rb - D-Link 3526/3028 cable tester script.
 descr.rb - show switch system description
 fwver.rb - show switch firmware version
